@@ -1,0 +1,8 @@
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\bin\Debug\Pract3College.exe.config
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\bin\Debug\Pract3College.exe
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\bin\Debug\Pract3College.pdb
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\obj\Debug\Pract3College.csproj.AssemblyReference.cache
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\obj\Debug\Pract3College.csproj.SuggestedBindingRedirects.cache
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\obj\Debug\Pract3College.csproj.CoreCompileInputs.cache
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\obj\Debug\Pract3College.exe
+C:\Users\кира\Desktop\практосы2\Pract3College\Pract3College\obj\Debug\Pract3College.pdb
